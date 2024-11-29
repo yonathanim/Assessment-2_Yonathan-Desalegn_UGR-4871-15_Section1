@@ -1,0 +1,61 @@
+/* Header nav bar layout*/
+header ul {
+    display: flex;
+    list-style: none;
+    padding-bottom: 20px;
+    margin-left: 15px;
+   
+}
+/*Main content layout*/
+.whole{
+    display: grid;
+    grid-template-columns: 650px 350px;
+    padding-left: 180px;
+    column-gap: 20px;
+}
+/* Main content picture layout */
+.Container{
+    display: grid;
+    grid-template-columns: 300px 300px;
+    column-gap: 30px;
+    
+}
+/*Footer about,contact and image collection layout*/
+.container-two{
+   
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    column-gap:40px;
+    background-color: rgba(147, 27, 27, 0.557);
+    padding: 20px 30px 30px 180px;
+    margin:20px -50px;
+
+}
+/*Footer image collection layout*/
+.image-collection ul {
+   list-style-type:none;
+   display: grid;
+   grid-template-columns: 70px 70px 70px;
+  row-gap: 5px;
+   width: 70px;
+}
+/*Footer copyright and nav bar layout*/
+.foot{
+    display: flex;
+    background-color:rgb(202, 75, 75);
+    margin: -20px -50px  ;
+    border-top: 1px solid white;
+    color: white;
+    padding-bottom: 10px;
+    padding-left: 170px;
+     
+}
+/*Footer nav bar layout*/
+.foot ul{
+    list-style: none;
+    display: flex;
+    margin-top: 30px;
+    margin-left: 200px;
+   
+     
+}

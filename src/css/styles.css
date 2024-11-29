@@ -1,0 +1,169 @@
+body{
+    font-family: Arial;
+ 
+    
+}
+/*Header style*/
+header{
+    background: linear-gradient(to right,rgba(46, 1, 42, 0.699),  rgb(155, 132, 132) 25%,rgba(56, 1, 38, 0.685));
+    margin: -20px -50px 0px -10px;
+    padding-left: 130px;
+}
+header a:hover{
+    background-color: red;
+    transition: 0.3s;
+
+}
+.slogan{
+    color: white;
+    margin-left: 270px;
+    padding-top: 30px;
+    
+}
+.title{
+    font-size: 30px;
+    color: rgb(160, 59, 59);
+    margin-top: -40px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+}
+h1 span {
+    color: white;
+}
+header li a{
+    padding:10px 20px 10px 20px ;
+    margin-right: 10px;
+    border-radius: 5px;
+    background-color: rgb(95, 42, 42);
+    border: none;
+    color: white;
+    text-decoration: none;
+}
+/*main style*/
+.whole p,h4{
+    line-height: 2em;
+    font-size: 13px;
+    color: rgb(86, 83, 83);
+}
+
+.Container span, .com{
+    color:rgb(68, 6, 19);
+    text-decoration: underline;
+}
+.Container img {
+    width: 100%;
+    height: 100px;
+    border: 1px solid rgb(193, 190, 190);
+    padding: 2px 2px 2px 2px;
+    
+ }
+.read-more{
+color:orange;
+}
+.whole h2{
+    color:rgb(75, 14, 17);
+}
+.side-search a {
+    text-decoration: none;
+    color: black;
+    
+     
+    
+}
+.side-search li{
+      
+    margin-bottom: 25px;
+    margin-left: -40px;
+    list-style: none;
+      
+     
+}
+.side-search ul{
+    margin-bottom: 50px;
+    margin-top: 35px;
+   
+}
+/*footer style*/
+.image-collection img{
+    width: 60px;
+    height: 60px;
+    border: 1px solid rgb(193, 190, 190);
+}
+.head{
+    color: white;
+    font-size: 20px;
+}
+
+.image h2{
+    margin-left: 40px;
+}
+.About{
+    margin-left: -50px;
+}
+.About img{
+    float: left;
+    width: 60px;
+    height: 60px;
+    margin-right: 20px;
+    margin-top: 10px;
+    border: 1px solid rgb(193, 190, 190);
+}
+.About p{
+color: white;
+line-height: 2em;
+text-align: left;
+font-size: 0.85em;
+width: 350px;
+ 
+}
+.About a {
+    color: wheat;
+    display: block;
+}
+.Contact  {
+    color: white;
+    line-height: 2em;
+    font-size: 0.85em;
+}
+
+.Contact ul{
+    list-style: none;
+    margin-left: -38px;
+}
+.foot a {
+    padding:10px 20px 10px 20px ;
+    text-decoration: none;
+    color: white;
+}
+ 
+.foot p{
+    margin-left:30px;
+    margin-top: 30px;
+   
+}
+.foot .EM,.EM{
+    color:wheat;
+    text-decoration: underline;
+    padding-left:0px;
+     
+    
+}
+ /*Contact page main style*/
+.name{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    width: 600px;
+    height: 25px;
+}
+input{
+    margin-bottom: 30px;
+}
+textarea{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    width: 600px;
+    height: 200px;
+}
+
+ 
+ 
